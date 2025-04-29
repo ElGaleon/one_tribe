@@ -1,1 +1,1 @@
-require matplotlib
+matplotlib=3.10.1
